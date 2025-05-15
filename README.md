@@ -15,8 +15,8 @@ The script does the following:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone <https://github.com/DakaBhai/price_tracker/tree/main>
+    cd <price_tracker>
     ```
 
 2.  **Install Dependencies:**
