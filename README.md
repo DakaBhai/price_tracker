@@ -70,7 +70,7 @@ To run this project, you need the following installed:
 Feel free to fork this repository, make improvements, and submit pull requests. Suggestions for enhancing error handling, adding visualizations, or supporting multiple products are welcome!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 Web scraping may violate Amazon's Terms of Service. Use this script responsibly and at your own risk. Ensure compliance with applicable laws and regulations.
