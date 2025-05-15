@@ -30,4 +30,4 @@ The script does the following:
 To start the price tracker, simply run the Python script:
 
 ```bash
-python price_tracker.py
+price_tracker.csv
